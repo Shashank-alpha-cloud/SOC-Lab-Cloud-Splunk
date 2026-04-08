@@ -43,3 +43,8 @@ Successfully built a working SOC environment capable of detecting and visualizin
 - Attack detection techniques
 - Cloud security basics (AWS)
 - Troubleshooting real-world issues (disk, ingestion, performance)
+
+## 📸 Screenshots
+
+### Dashboard
+![Dashboard](dashboard.png)
